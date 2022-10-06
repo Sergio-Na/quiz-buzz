@@ -1,0 +1,86 @@
+[
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many scoring zones are there on a conventional dart board?",
+    "correct": "82",
+    "incorrect": ["62", "42", "102"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In baseball, how many fouls are an out?",
+    "correct": "0",
+    "incorrect": ["5", "3", "2"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country will host the 2020 Summer Olympics?",
+    "correct": "Japan",
+    "incorrect": ["China", "Australia", "Germany"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is hosting the 2022 FIFA World Cup?",
+    "correct": "Qatar",
+    "incorrect": ["Uganda", "Vietnam", "Bolivia"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+    "correct": "Porsche",
+    "incorrect": ["Toyota", "Audi", "Ferrari"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+    "correct": "Jose Fernandez",
+    "incorrect": ["Jacob deGrom", "Shelby Miller", "Matt Harvey"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which player holds the NHL record of 2,857 points?",
+    "correct": "Wayne Gretzky",
+    "incorrect": ["Mario Lemieux ", "Sidney Crosby", "Gordie Howe"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the topscorer for England national football team?",
+    "correct": "Wayne Rooney",
+    "incorrect": ["David Beckham", "Steven Gerrard", "Michael Owen"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is Tiger Woods' all-time best career golf-score?",
+    "correct": "61",
+    "incorrect": ["65", "63", "67"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which two teams played in Super Bowl XLII?",
+    "correct": "The New York Giants & The New England Patriots",
+    "incorrect": [
+      "The Green Bay Packers &amp; The Pittsburgh Steelers",
+      "The Philadelphia Eagles & The New England Patriots",
+      "The Seattle Seahawks & The Denver Broncos"
+    ]
+  }
+]

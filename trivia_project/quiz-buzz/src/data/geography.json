@@ -1,0 +1,86 @@
+[
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which state of the United States is the smallest?",
+    "correct": "Rhode Island ",
+    "incorrect": ["Maine", "Vermont", "Massachusetts"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many countries are inside the United Kingdom?",
+    "correct": "Four",
+    "incorrect": ["Two", "Three", "One"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Denmark?",
+    "correct": "Copenhagen",
+    "incorrect": ["Aarhus", "Odense", "Aalborg"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many countries does Spain have a land border with?",
+    "correct": "5",
+    "incorrect": ["2", "3", "4"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Where is the fast food chain 'Panda Express' headquartered?",
+    "correct": "Rosemead, California",
+    "incorrect": [
+      "Sacramento, California",
+      "Fresno, California",
+      "San Diego, California"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the area of Vatican City?",
+    "correct": "0.44km^2",
+    "incorrect": ["0.10km^2", "0.86km^2", "12.00km^2"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Space Needle is located in which city?",
+    "correct": "Seattle",
+    "incorrect": ["Los Angles", "Toronto", "Vancouver"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Harvard University is located in which city?",
+    "correct": "Cambridge",
+    "incorrect": ["Providence", "New York", "Washington D.C."]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of Slovakia?",
+    "correct": "Bratislava",
+    "incorrect": ["Sofia", "Ljubljana", "Sarajevo"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the only remaining Grand Duchy in the world ?",
+    "correct": "Luxembourg",
+    "incorrect": ["Montenegro", "Liechtenstein", "Andorra"]
+  }
+]

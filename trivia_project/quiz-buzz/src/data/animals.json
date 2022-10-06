@@ -1,0 +1,82 @@
+[
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of animal is a natterjack?",
+    "correct": "Toad",
+    "incorrect": ["Bird", "Fish", "Insect"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What color/colour is a polar bear's skin?",
+    "correct": "Black",
+    "incorrect": ["White", "Pink", "Green"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Hippocampus is the Latin name for which marine creature?",
+    "correct": "Seahorse",
+    "incorrect": ["Dolphin", "Whale", "Octopus"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the scientific name for the 'Polar Bear'?",
+    "correct": "Ursus Maritimus",
+    "incorrect": ["Polar Bear", "Ursus Spelaeus", "Ursus Arctos"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What are rhino's horn made of?",
+    "correct": "Keratin",
+    "incorrect": ["Bone", "Ivory", "Skin"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the scientific name of the cheetah?",
+    "correct": "Acinonyx jubatus",
+    "incorrect": ["Panthera onca", "Lynx rufus", "Felis catus"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animal was part of an Russian domestication experiment in 1959?",
+    "correct": "Foxes",
+    "incorrect": ["Pigeons", "Bears", "Alligators"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these is a colony of polyps and not a jellyfish?",
+    "correct": "Portuguese Man-of-War",
+    "incorrect": ["Sea Wasp", "Irukandji", "Sea Nettle"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+    "correct": "Mad Cow disease",
+    "incorrect": ["Weil's disease", "Milk fever", "Foot-and-mouth disease"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of a rabbit's abode?",
+    "correct": "Burrow",
+    "incorrect": ["Nest", "Den", "Dray"]
+  }
+]

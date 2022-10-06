@@ -1,0 +1,71 @@
+h1 {
+    cursor: pointer;
+}
+
+.card {
+    cursor: pointer;
+    color: #ffffff;
+    box-shadow: 5px 5px 15px 5px #bbbbbb;
+
+    &--bg-green {
+        background-color: green !important;
+        border-color: green !important;
+    }
+
+    &--bg-purple {
+        background-color: purple !important;
+        border-color: purple  !important;
+    }
+
+    &--bg-red {
+        background-color: red !important;
+        border-color: red !important;
+    }
+    &--bg-grey {
+        background-color: grey !important;
+        border-color:   grey !important;
+    }
+    &--bg-orange {
+        background-color: orange !important;
+        border-color: orange !important;
+    }
+    &--bg-orange {
+        background-color: orange !important;
+        border-color: orange !important;
+    }
+    &--bg-brown {
+        background-color: brown !important;
+        border-color: brown !important;
+    }
+    &--bg-blue {
+        background-color: blue !important;
+        border-color: blue!important;
+    }
+    &--bg-pink {
+        background-color: pink !important;
+        border-color: pink !important;
+    }
+}   
+
+.list-group {
+    &:not(.disabled) {
+        .list-group-item:hover {
+            background: #1c6ea4;
+            color: #ffffff;
+        }
+    }
+
+    .list-group-item {
+        cursor: pointer;
+
+        &.correct {
+            background-color: #68d388;
+            color: #ffffff;
+        }
+
+        &.incorrect {
+            background-color: #ff0028;
+            color: #ffffff;
+        }
+    }
+}

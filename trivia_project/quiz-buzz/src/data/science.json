@@ -1,0 +1,82 @@
+[
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Apollo mission was the first one to land on the Moon?",
+    "correct": "Apollo 11",
+    "incorrect": ["Apollo 10", "Apollo 9", "Apollo 13"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What name is given to all baby marsupials?",
+    "correct": "Joey",
+    "incorrect": ["Calf", "Pup", "Cub"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the first element on the periodic table?",
+    "correct": "Hydrogen",
+    "incorrect": ["Helium", "Oxygen", "Lithium"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the powerhouse of the cell?",
+    "correct": "Mitochondria",
+    "incorrect": ["Ribosome", "Redbull", "Nucleus"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which element has the atomic number of 7?",
+    "correct": "Nitrogen",
+    "incorrect": ["Oxygen", "Hydrogen", "Neon"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following blood vessels carries deoxygenated blood?",
+    "correct": "Pulmonary Artery",
+    "incorrect": ["Pulmonary Vein", "Aorta", "Coronary Artery"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "'The Big Bang Theory' was first theorized by a priest of what religious ideology?",
+    "correct": "Catholic",
+    "incorrect": ["Christian", "Jewish", "Islamic"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Botanically speaking, which of these fruits is NOT a berry?",
+    "correct": "Strawberry",
+    "incorrect": ["Blueberry", "Banana", "Concord Grape"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which desert is the only desert in the world where the 'Saguaro' cactus grows indigenously?",
+    "correct": "The Sonoran Desert",
+    "incorrect": ["The Gobi Desert", "The Yuma Desert", "The Arabian Desert"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+    "correct": "Shepard Tone",
+    "incorrect": ["Glissandro Illusion", "Fransen Effect", "McGurck Effect"]
+  }
+]

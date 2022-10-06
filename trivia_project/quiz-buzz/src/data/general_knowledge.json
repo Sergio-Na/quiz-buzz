@@ -1,0 +1,98 @@
+[
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the Morse code, which letter is indicated by 3 dots? ",
+    "correct": "S",
+    "incorrect": ["O", "A", "C"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these companies does NOT manufacture automobiles?",
+    "correct": "Ducati",
+    "incorrect": ["Nissan", "GMC", "Fiat"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+    "correct": "Spruce Goose",
+    "incorrect": ["Noah&#039;s Ark", "Fat Man", "Trojan Horse"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Amsterdam Centraal station is twinned with what station?",
+    "correct": "London Liverpool Street",
+    "incorrect": [
+      "Frankfurt (Main) Hauptbahnhof",
+      "Paris Gare du Nord",
+      "Brussels Midi"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which slogan did the fast food company, McDonald's, use before their 'I'm Lovin It' slogan?",
+    "correct": "We Love to See You Smile",
+    "incorrect": [
+      "Why Pay More!?",
+      "Have It Your Way",
+      "Making People Happy Through Food"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is real haggis made of?",
+    "correct": "Sheep's Heart, Liver and Lungs",
+    "incorrect": [
+      "Sheep's Heart, Kidneys and Lungs",
+      "Sheep's Liver, Kidneys and Eyes",
+      "Whole Sheep"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is Cynophobia the fear of?",
+    "correct": "Dogs",
+    "incorrect": ["Birds", "Flying", "Germs"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+    "correct": "Monty Python",
+    "incorrect": [
+      "The Goodies&lrm;",
+      "The League of Gentlemen&lrm;",
+      "The Penny Dreadfuls"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A statue of Charles Darwin sits in what London museum?",
+    "correct": "Natural History Museum",
+    "incorrect": ["Tate", "British Museum", "Science Museum"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Canadian $1 coin is colloquially known as a what?",
+    "correct": "Loonie",
+    "incorrect": ["Boolie", "Foolie", "Moodie"]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "category": "Celebrities",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Donald J. Trump's Middle Name is...",
+    "correct": "John",
+    "incorrect": ["Jeff", "Jerald", "Jason"]
+  },
+  {
+    "category": "Celebrities",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What year did radio icon Howard Stern start a job at radio station WNBC?",
+    "correct": "1982",
+    "incorrect": ["1985", "1984", "1995"]
+  },
+  {
+    "category": "Celebrities",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When was Elvis Presley born?",
+    "correct": "January 8, 1935",
+    "incorrect": ["December 13, 1931", "July 18, 1940", "April 17, 1938"]
+  },
+  {
+    "category": "Celebrities",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What does film maker Dan Bell typically focus his films on?",
+    "correct": "Abandoned Buildings and Dead Malls",
+    "incorrect": ["Historic Landmarks", "Action Films", "Documentaries "]
+  },
+  {
+    "category": "Celebrities",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "If he was still alive, in what year would Elvis Presley celebrate his 100th birthday?",
+    "correct": "2035",
+    "incorrect": ["2030", "2040", "2045"]
+  },
+  {
+    "category": "Celebrities",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?",
+    "correct": "The Party",
+    "incorrect": [
+      "The Weather Girls",
+      "The Pussycat Dolls",
+      "The Cheetah Girls"
+    ]
+  },
+  {
+    "category": "Celebrities",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the name of Marilyn Monroe's first husband?",
+    "correct": "James Dougherty",
+    "incorrect": ["Joe Dimaggio", "Kirk Douglas", "Arthur Miller"]
+  },
+  {
+    "category": "Celebrities",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Neil Hamburger is played by which comedian?",
+    "correct": "Gregg Turkington",
+    "incorrect": ["Nathan Fielder", "Tim Heidecker", "Todd Glass"]
+  },
+  {
+    "category": "Celebrities",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The eccentric natural philosopher Tycho Brahe kept what as a pet?",
+    "correct": "Moose",
+    "incorrect": ["Dog", "Bear", "Goat"]
+  },
+  {
+    "category": "Celebrities",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was James Coburn's last film role before his death?",
+    "correct": "American Gun",
+    "incorrect": ["Monsters Inc", "Texas Rangers", "Snow Dogs"]
+  }
+]
